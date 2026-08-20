@@ -1,0 +1,9 @@
+5-City TSP - Cost Matrix:
+[inf, 10, 8, 5, 7]
+[10, inf, 10, 5, 6]
+[8, 10, inf, 8, 9]
+[5, 5, 8, inf, 6]
+[7, 6, 9, 6, inf]
+
+Optimal Tour: A -> D -> B -> E -> C -> A
+Minimum Cost: 33
